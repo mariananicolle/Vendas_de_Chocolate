@@ -1,6 +1,7 @@
 # Cacaus
 ## Protótipo
 https://www.figma.com/file/ZL5xKOuwgUOp174DEmBc1u/loja-de-chocolates?type=design&node-id=0%3A1&mode=design&t=p87ogmgoQjMPxA6V-1
+
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 ### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 - [ ] ID0 - Prototipa interfaces adaptáveis para no mínimo os tamanhos de tela mobile e desktop, usando ferramentas de design como Figma, Quant UX ou Sketch.
